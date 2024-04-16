@@ -9,4 +9,6 @@ To execute the program, simply run:
 python3 ann.py
 ```
 
+You can also view the jupyter notebook. They have the same content.
+
 Hope you find this useful.
